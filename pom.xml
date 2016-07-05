@@ -79,9 +79,6 @@
 			<version>1.0.1.RELEASE</version>
 		</dependency>
 
-
-
-
 		<!-- for convert MD5 -->
 		<dependency>
 			<groupId>commons-codec</groupId>
@@ -110,6 +107,7 @@
 			<artifactId>spring-security-taglibs</artifactId>
 			<version>${org.springframework-version}</version>
 		</dependency>
+
 
 		<!-- AspectJ -->
 		<dependency>
